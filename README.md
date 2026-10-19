@@ -20,7 +20,7 @@ Python 3, Git, and an internet connection to install Python packages.
 Run these commands in a terminal:
 
 ```bash
-git clone https://github.com/AlphonsusOrtse-dev/campus_resource_system_web_version.git
+git clone https://github.com/AlphonsusOrtse/campus_resource_system_web_version.git
 cd campus_resource_system_web_version
 python3 -m venv .venv
 source .venv/bin/activate
